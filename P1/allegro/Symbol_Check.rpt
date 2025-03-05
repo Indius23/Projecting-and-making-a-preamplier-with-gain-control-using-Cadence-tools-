@@ -1,0 +1,27 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : LAYOUT.brd                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Dec 01 23:20:58 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	.
+	symbols
+	..
+	../symbols
+	C:/Cadence/SPB_16.6/share/local/pcb/symbols
+	C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+	C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols
+
+
+All Symbols Found
+
+Total symbols placed:      24 out of 26
+
+
+Symbol Found:  VEE1	- C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/jumper2.psm

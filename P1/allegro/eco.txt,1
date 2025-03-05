@@ -1,0 +1,291 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/Facultate/proiecte/p1/2024/LAYOUT.brd                                    |
+|                                                    Sun Dec 01 22:53:54 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins MOVED FROM this net (to net name listed on right)
+                                 C4.1                           
+                                                                        N278362
+                                 V-.2                           
+                                                                             V-
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 D3.C                           
+                                 D4.A                           
+                                 IN.1                           
+                                 OUT.2                          
+                                 Q8.2                           
+                                 R22.2                          
+                                 R27.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N278356      pins ADDED TO this new net
+                                 R23.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N278362      pins ADDED TO this new net
+                                 C3.1                           
+                                 R20.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N278366      pins ADDED TO this new net
+                                 R21.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N278486      pins ADDED TO this new net
+                                 C3.2                           
+                                 OUT.1                          
+                                 R22.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N278514      pins ADDED TO this new net
+                                 IN.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N278532      pins ADDED TO this new net
+                                 D3.A                           
+                                 R23.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N278538      pins ADDED TO this new net
+                                 Q9.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N278622      pins ADDED TO this new net
+                                 Q8.1                           
+                                 Q8.3                           
+                                 Q9.1                           
+                                 R24.2                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/Facultate/proiecte/p1/2024/LAYOUT.brd                                    |
+|                                                    Sun Dec 01 22:53:54 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N278688      pins ADDED TO this new net
+                                 R24.1                          
+                                 R25.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N278786      pins ADDED TO this new net
+                                 R25.1                          
+                                 R27.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N278820      pins ADDED TO this new net
+                                 R26.1                          
+                                 R28.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N278898      pins ADDED TO this new net
+                                 R29.1                          
+                                 R30.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N278924      pins ADDED TO this new net
+                                 D4.C                           
+                                 R30.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N347471      pins MOVED FROM this net (to net name listed on right)
+                                 Q6.1                           
+                                                                        N278514
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N347823      pins MOVED FROM this net (to net name listed on right)
+                                 Q7.1                           
+                                                                              0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N2787242     pins ADDED TO this new net
+                                 Q9.2                           
+                                 R26.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  V+           pins MOVED FROM this net (to net name listed on right)
+                                 Q7.3                           
+                                                                        N278362
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 R20.2                          
+                                 R21.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  V-           pins MOVED FROM this net (to net name listed on right)
+                                 Q6.3                           
+                                                                        N278366
+                                 V-.1                           
+                                                                              0
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/Facultate/proiecte/p1/2024/LAYOUT.brd                                    |
+|                                                    Sun Dec 01 22:53:54 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 R28.1                          
+                                 R29.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VIN          pins MOVED FROM this net (to net name listed on right)
+                                 R19.2                          
+                                                                             V+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VIP          pins MOVED FROM this net (to net name listed on right)
+                                 C4.2                           
+                                                                        N278486
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VO           pins MOVED FROM this net (to net name listed on right)
+                                 Q6.2                           
+                                                                        N278538
+                                 Q7.2                           
+                                                                        N278538
+                                 R19.1                          
+                                                                        N278356
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/Facultate/proiecte/p1/2024/LAYOUT.brd                                    |
+|                                                    Sun Dec 01 22:53:54 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ BC846B_0_TO236_BC846B
+ C_SMC0805_4.7U
+ LED_0_SMD0805_3V,LED,LED
+ R_SMR0805_100
+ R_SMR0805_150
+ R_SMR0805_680
+ R_SMR0805_1K5
+ R_SMR0805_2.2K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/Facultate/proiecte/p1/2024/LAYOUT.brd                                    |
+|                                                    Sun Dec 01 22:53:54 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C5                  C_SMC0805_10N                        
+ C7                  C_SMC0805_1U                         
+ C20                 C_SMC0805_470P                       
+ D1                  1N4148_0_SMD0805_1N4148                
+ D5                  1N4148_0_SMD0805_1N4148                
+ D6                  1N4148_0_SMD0805_1N4148                
+ D9                  1N4148_0_SMD0805_1N4148                
+ D14                 1N4148_0_SMD0805_1N4148                
+ D19                 1N4148_0_SMD0805_1N4148                
+ J1                  CON1_JUMPER1_CON1                    
+ J2                  CON1_JUMPER1_CON1                    
+ J3                  CON1_JUMPER1_CON1                    
+ P1                  POT_TS53YL_500K                      
+ P2                  POT_TS53YL_10K                       
+ P3                  POT_TS53YL_10K                       
+ Q1                  QBC817-25_0_TO236_QBC817-25                
+ Q2                  QBC817-25_0_TO236_QBC817-25                
+ Q3                  QBC807-25_0_TO236_QBC807-25                
+ Q4                  QBC807-25_0_TO236_QBC807-25                
+ Q5                  QBC807-25_0_TO236_QBC807-25                
+ Q10                 JMMBFJ309LT1_1_TO236_JMMBFJ309L                
+ R1                  R_SMR0805_51                         
+ R2                  R_SMR0805_51                         
+ R3                  R_SMR0805_4.7K                       
+ R31                 R_SMR0805_10K                        
+ R35                 R_SMR0805_1.5K                       
+ R36                 R_SMR0805_1.5K                       
+ R38                 R_SMR0805_1K                         
+ R39                 R_SMR0805_1000K                      
+ R77                 R_SMR0805_3K                         
+ R84                 POT_TS53YL_100                       
+ R4_1                R_SMR0805_1.5K                       
+ R4_2                R_SMR0805_220                        
+ R4_3                R_SMR0805_220                        
+ VO                  CON2_JUMPER2_CON2                    
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:/Facultate/proiecte/p1/2024/LAYOUT.brd                                    |
+|                                                    Sun Dec 01 22:53:54 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C3                  C_SMC0805_4.7U        
+ D3                  LED_0_SMD0805_3V,LED,LED 
+ D4                  LED_0_SMD0805_3V,LED,LED 
+ IN                  CON2_JUMPER2_CON2     
+ OUT1                CON2_JUMPER2_CON2     
+ OUT                 CON2_JUMPER2_CON2     
+ Q8                  BC846B_0_TO236_BC846B 
+ Q9                  BC846B_0_TO236_BC846B 
+ R20                 R_SMR0805_1K5         
+ R21                 R_SMR0805_1K5         
+ R22                 R_SMR0805_680         
+ R23                 R_SMR0805_220         
+ R24                 R_SMR0805_100         
+ R25                 R_SMR0805_150         
+ R26                 R_SMR0805_2.2K        
+ R27                 R_SMR0805_150         
+ R28                 R_SMR0805_100         
+ R29                 R_SMR0805_220         
+ R30                 R_SMR0805_220         
+ VEE1                CON2_JUMPER2_CON2     
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:/Facultate/proiecte/p1/2024/LAYOUT.brd                                    |
+|                                                    Sun Dec 01 22:53:54 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in board drawing          |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C4                  C_SMC0805_4.7U                        C_SMC0805_10N
+ Q6                  BC846B_0_TO236_BC846B                 QBC807-25_0_TO236_QBC807-25
+ Q7                  BC846B_0_TO236_BC846B                 QBC817-25_0_TO236_QBC817-25
+ R19                 R_SMR0805_220                         R_SMR0805_22K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:/Facultate/proiecte/p1/2024/LAYOUT.brd                                    |
+|                                                    Sun Dec 01 22:53:54 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ D3.C                           PRIM_FILE      .\pstchip.dat
+ D4.C                           PRIM_FILE      .\pstchip.dat
+ IN.2                           PRIM_FILE      .\pstchip.dat
+ OUT1.2                         PRIM_FILE      .\pstchip.dat
+ OUT.2                          PRIM_FILE      .\pstchip.dat
+ Q6.3                           PRIM_FILE      .\pstchip.dat
+ Q7.3                           PRIM_FILE      .\pstchip.dat
+ Q8.3                           PRIM_FILE      .\pstchip.dat
+ Q9.3                           PRIM_FILE      .\pstchip.dat
+ R19.2                          PRIM_FILE      .\pstchip.dat
+ R20.2                          PRIM_FILE      .\pstchip.dat
+ R21.2                          PRIM_FILE      .\pstchip.dat
+ R22.2                          PRIM_FILE      .\pstchip.dat
+ R23.2                          PRIM_FILE      .\pstchip.dat
+ R24.2                          PRIM_FILE      .\pstchip.dat
+ R25.2                          PRIM_FILE      .\pstchip.dat
+ R26.2                          PRIM_FILE      .\pstchip.dat
+ R27.2                          PRIM_FILE      .\pstchip.dat
+ R28.2                          PRIM_FILE      .\pstchip.dat
+ R29.2                          PRIM_FILE      .\pstchip.dat
+ R30.2                          PRIM_FILE      .\pstchip.dat
+ VEE1.2                         PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  141                                            |
+|------------------------------------------------------------------------------|
